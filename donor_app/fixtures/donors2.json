@@ -1,0 +1,2130 @@
+[
+	{
+		"model": "donor_app.donor",
+		"pk": 1,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "GBDH Design Group",
+			"lastname": "Roy Hunt",
+			"phone": "916-416-5137",
+			"email": "rhunt@gbdhdesigngroup.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 21,
+			"yeartotal": "$1,100.00",
+			"lastgift": "$100.00",
+			"lastgiftdate": "01/13/20",
+			"nextlastgift": "$100.00",
+			"nextlastgiftdate": "12/13/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 2,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Bistro 221",
+			"lastname": "",
+			"phone": "530-277-0953",
+			"email": "melissa23bryant@yahoo.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$500.00",
+			"lastgift": "$500.00",
+			"lastgiftdate": "12/10/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 3,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Escrip",
+			"lastname": "",
+			"phone": "",
+			"email": "",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": "",
+			"yeartotal": "$293.11",
+			"lastgift": "$30.08",
+			"lastgiftdate": "10/28/19",
+			"nextlastgift": "$15.97",
+			"nextlastgiftdate": "08/01/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 4,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "NC Office of Emergency Services",
+			"lastname": "",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$1,000.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "10/25/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 5,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Waste Management",
+			"lastname": "",
+			"phone": "",
+			"email": "vbarbaris@wm.com",
+			"botsteward": "Gretchen Bond",
+			"paymentnum": "",
+			"yeartotal": "$500.00",
+			"lastgift": "$500.00",
+			"lastgiftdate": "10/03/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 6,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "County of Nevada",
+			"lastname": "",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$1,000.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "09/13/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 7,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Escrip",
+			"lastname": "",
+			"phone": "",
+			"email": "",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": "",
+			"yeartotal": "$293.11",
+			"lastgift": "$30.08",
+			"lastgiftdate": "10/28/19",
+			"nextlastgift": "$15.97",
+			"nextlastgiftdate": "08/01/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 8,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Briar Patch Food Co-Op",
+			"lastname": "",
+			"phone": "530-272-5333",
+			"email": "rebeccat@briarpatch.coop",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$10,734.69",
+			"lastgift": "$5,134.69",
+			"lastgiftdate": "07/23/19",
+			"nextlastgift": "$1,100.00",
+			"nextlastgiftdate": "05/05/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 9,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Catherine",
+			"lastname": "Arbini",
+			"phone": "530-268-1883",
+			"email": "twosheds@sbcglobal.net",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 11,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "02/02/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "01/02/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 10,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Rod",
+			"lastname": "Baggett",
+			"phone": "530-559-3842",
+			"email": "rbaggett063@gmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 13,
+			"yeartotal": "$68.75",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/27/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/27/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 11,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Elizabeth",
+			"lastname": "Bennett Revocable Living Trust",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$500.00",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$500.00",
+			"nextlastgiftdate": "12/13/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 12,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Judith",
+			"lastname": "Berliner",
+			"phone": "530-273-8754",
+			"email": "judith@full-circle-press.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 15,
+			"yeartotal": "$150.00",
+			"lastgift": "$12.50",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$12.50",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 13,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Daniel",
+			"lastname": "Bibelheimer & Ginger Konvalin",
+			"phone": "530-265-3482",
+			"email": "ncdan1223@earthlink.net",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 25,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/25/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/25/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 14,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Larry & Glady",
+			"lastname": "Birdsong",
+			"phone": "530-470-8778",
+			"email": "glady@gladbird.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$2,100.00",
+			"lastgift": "$5,000.00",
+			"lastgiftdate": "01/30/20",
+			"nextlastgift": "$5,000.00",
+			"nextlastgiftdate": "01/30/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 15,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Larry & Glady",
+			"lastname": "Birdsong",
+			"phone": "530-470-8778",
+			"email": "glady@gladbird.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$2,100.00",
+			"lastgift": "",
+			"lastgiftdate": "",
+			"nextlastgift": "",
+			"nextlastgiftdate": "",
+			"comments": "Chevron match in 2019"
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 16,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "David",
+			"lastname": "Bowman",
+			"phone": "530-273-7418",
+			"email": "",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$75.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "01/16/20",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "04/11/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 17,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Bonita",
+			"lastname": "Brand",
+			"phone": "530-205-7902",
+			"email": "bunnie33@sbcglobal.net",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 18,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Russell & Fiona",
+			"lastname": "Cameron",
+			"phone": "530-274-1028",
+			"email": "fiona@rgcameron.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 23,
+			"yeartotal": "$308.64",
+			"lastgift": "$25.72",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$25.72",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 19,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Greg & Sheila",
+			"lastname": "Cameron",
+			"phone": "530-613-6546",
+			"email": "cameronproaudio@me.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$1,257.25",
+			"lastgift": "$257.25",
+			"lastgiftdate": "12/31/19",
+			"nextlastgift": "$250.00",
+			"nextlastgiftdate": "12/30/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 20,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Russell & Fiona",
+			"lastname": "Cameron",
+			"phone": "530-274-1028",
+			"email": "fiona@rgcameron.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 22,
+			"yeartotal": "$308.64",
+			"lastgift": "$25.72",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$25.72",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 21,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Stuart & Paula",
+			"lastname": "Campbell",
+			"phone": "530-265-5705",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$60.00",
+			"lastgift": "$60.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$60.00",
+			"nextlastgiftdate": "12/31/17",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 22,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Marlee",
+			"lastname": "Chamberlin",
+			"phone": "530-272-4804",
+			"email": "mchamberlin@aol.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$150.00",
+			"lastgift": "$150.00",
+			"lastgiftdate": "12/05/19",
+			"nextlastgift": "$154.35",
+			"nextlastgiftdate": "05/31/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 23,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Vivian",
+			"lastname": "Conly",
+			"phone": "304-646-4107",
+			"email": "conly4@gmail.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 32,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "12/15/19",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "11/15/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 24,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Caryn",
+			"lastname": "Cook",
+			"phone": "760-864-7201",
+			"email": "caryncook@gmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 25,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Wanda",
+			"lastname": "Cristel",
+			"phone": "530-477-3398",
+			"email": "cris9069@live.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 10,
+			"yeartotal": "$56.25",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/09/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/09/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 26,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Gene & Judy",
+			"lastname": "Crowe",
+			"phone": "530-265-2675",
+			"email": "jude27@sbcglobal.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$77.18",
+			"lastgiftdate": "01/01/20",
+			"nextlastgift": "$77.18",
+			"nextlastgiftdate": "12/30/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 27,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "John",
+			"lastname": "Dang",
+			"phone": "",
+			"email": "johndangtx@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 11,
+			"yeartotal": "$141.46",
+			"lastgift": "$12.86",
+			"lastgiftdate": "11/01/19",
+			"nextlastgift": "$12.86",
+			"nextlastgiftdate": "10/01/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 28,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Don & Kathryn",
+			"lastname": "Deppensmith",
+			"phone": "530-478-9537",
+			"email": "dep@nccn.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$150.00",
+			"lastgift": "$150.00",
+			"lastgiftdate": "11/05/19",
+			"nextlastgift": "$150.00",
+			"nextlastgiftdate": "07/20/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 29,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Tom & Sandy",
+			"lastname": "Devine",
+			"phone": "530-265-3104",
+			"email": "tomsandy2@att.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$40.00",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "12/31/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 30,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "James",
+			"lastname": "Doolittle",
+			"phone": "916-806-2403",
+			"email": "jimidoosfd@yahoo.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 33,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "12/16/19",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "11/16/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 31,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Brett & Kathy",
+			"lastname": "Dotson",
+			"phone": "530-470-8595",
+			"email": "kathyadotson@gmail.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 12,
+			"yeartotal": "$137.51",
+			"lastgift": "$12.50",
+			"lastgiftdate": "01/11/20",
+			"nextlastgift": "$12.50",
+			"nextlastgiftdate": "12/11/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 32,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Rafael",
+			"lastname": "Escobar & Ann Ashley",
+			"phone": "530-470-6164",
+			"email": "annashley3277@gmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 23,
+			"yeartotal": "$62.50",
+			"lastgift": "$6.25",
+			"lastgiftdate": "10/25/19",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "09/25/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 33,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "George",
+			"lastname": "Evans",
+			"phone": "530-272-2458",
+			"email": "35gwevans@sbcglobal.net",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$102.90",
+			"lastgift": "$102.90",
+			"lastgiftdate": "09/10/19",
+			"nextlastgift": "$102.90",
+			"nextlastgiftdate": "09/13/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 34,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Rob & Suzanne",
+			"lastname": "Ferroggiaro",
+			"phone": "530-477-5344",
+			"email": "rivertreehouse@att.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$50.00",
+			"lastgift": "$50.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$50.00",
+			"nextlastgiftdate": "11/27/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 35,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Brenda",
+			"lastname": "Fields",
+			"phone": "530-320-5334",
+			"email": "reddirtgal@sbcglobal.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": 32,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "12/06/19",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "11/06/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 36,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Jim & Barbara",
+			"lastname": "Fiksdal",
+			"phone": "530-477-9339",
+			"email": "jbfiksdal@att.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": 14,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/27/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/27/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 37,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Charles",
+			"lastname": "Fischetti & Michael Chalmers",
+			"phone": "",
+			"email": "charlesfischetti@gmail.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$50.00",
+			"lastgift": "$50.00",
+			"lastgiftdate": "12/13/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 38,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Rick & Eva",
+			"lastname": "Fisher",
+			"phone": "530-277-4336",
+			"email": "catgon2@sbcglobal.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": 19,
+			"yeartotal": "$600.00",
+			"lastgift": "$50.00",
+			"lastgiftdate": "02/06/20",
+			"nextlastgift": "$50.00",
+			"nextlastgiftdate": "01/06/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 39,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Doug",
+			"lastname": "Fleming",
+			"phone": "323-309-9728",
+			"email": "fleming.douglass@gmail.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$150.00",
+			"lastgift": "$150.00",
+			"lastgiftdate": "07/26/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 40,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Gary",
+			"lastname": "Frankel",
+			"phone": "530-477-7456",
+			"email": "gary_frankel@hotmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 33,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "11/30/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 41,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "William",
+			"lastname": "Gainer",
+			"phone": "530-432-8196",
+			"email": "wsgainer@comcast.net",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$35.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "12/20/19",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "06/25/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 42,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Eve",
+			"lastname": "Ggem",
+			"phone": "530-272-3941",
+			"email": "eveggem9489@comcast.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 32,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/06/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/06/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 43,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Ron",
+			"lastname": "Graddy",
+			"phone": "",
+			"email": "rongraddy@gmail.com",
+			"botsteward": "",
+			"paymentnum": 4,
+			"yeartotal": "$38.58",
+			"lastgift": "$12.86",
+			"lastgiftdate": "02/06/20",
+			"nextlastgift": "$12.86",
+			"nextlastgiftdate": "01/06/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 44,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Hindi",
+			"lastname": "Greenberg",
+			"phone": "530-274-7343",
+			"email": "hindi@theunion.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$75.00",
+			"lastgift": "$75.00",
+			"lastgiftdate": "12/19/19",
+			"nextlastgift": "$40.00",
+			"nextlastgiftdate": "12/27/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 45,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Joe & Cynthia",
+			"lastname": "Gruber",
+			"phone": "916-719-0709",
+			"email": "jc@grubers.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$75.00",
+			"lastgift": "$75.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "12/18/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 46,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Roger & Sandra",
+			"lastname": "Haines",
+			"phone": "(530) 478-0488",
+			"email": "hainesgrass@aol.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$75.00",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "06/06/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 47,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Ken & Shannon",
+			"lastname": "Hale",
+			"phone": "530-274-3458",
+			"email": "shannonhale53@gmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 13,
+			"yeartotal": "$150.00",
+			"lastgift": "$12.50",
+			"lastgiftdate": "01/21/20",
+			"nextlastgift": "$12.50",
+			"nextlastgiftdate": "12/21/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 48,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Sands",
+			"lastname": "Hall",
+			"phone": "530-913-1866",
+			"email": "sandsmhall@gmail.com",
+			"botsteward": "",
+			"paymentnum": 3,
+			"yeartotal": "$6.25",
+			"lastgift": "$6.25",
+			"lastgiftdate": "02/03/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "01/03/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 49,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Gary & Dee",
+			"lastname": "Hardes",
+			"phone": "253-927-2480",
+			"email": "ghardes@hotmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 33,
+			"yeartotal": "$300.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "01/30/20",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "12/30/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 50,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Katherine",
+			"lastname": "Heuer",
+			"phone": "530-432-8072",
+			"email": "kateheuer@sbcglobal.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": 32,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/10/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/10/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 51,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Michael, Judith & Teddy",
+			"lastname": "Hill-Weld",
+			"phone": "",
+			"email": "hillweld@gv.net",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$100.00",
+			"lastgift": "$100.00",
+			"lastgiftdate": "07/23/19",
+			"nextlastgift": "$50.00",
+			"nextlastgiftdate": "09/07/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 52,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Linda",
+			"lastname": "Hinz",
+			"phone": "530-477-1459",
+			"email": "lchinz@suddenlink.net",
+			"botsteward": "Greg Cameron",
+			"paymentnum": "",
+			"yeartotal": "$50.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "01/22/20",
+			"nextlastgift": "$50.00",
+			"nextlastgiftdate": "05/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 53,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Lee",
+			"lastname": "Hudson",
+			"phone": "530-265-5001",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$85.00",
+			"lastgift": "$75.00",
+			"lastgiftdate": "08/16/19",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "07/28/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 54,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Inah",
+			"lastname": "Inah",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$10.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "07/28/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 55,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Andrea",
+			"lastname": "Jensen",
+			"phone": "530-478-0626",
+			"email": "dinolady48@aol.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 56,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Anna",
+			"lastname": "Jerome",
+			"phone": "530-470-0399",
+			"email": "msannajerome@gmail.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 3,
+			"yeartotal": "$1,060.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "12/06/19",
+			"nextlastgift": "$60.00",
+			"nextlastgiftdate": "11/23/19",
+			"comments": "Changed her donation from $60/yr to $1,000/yr"
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 57,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Ken & Barbara",
+			"lastname": "Johnson",
+			"phone": "530-470-6127",
+			"email": "Themadisonhouse427@gmail.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 31,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/12/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/12/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 58,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Chris",
+			"lastname": "Johnson",
+			"phone": "707-321-5985",
+			"email": "chriscaj@comcast.net",
+			"botsteward": "Mark Warner",
+			"paymentnum": 32,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/06/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/06/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 59,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Cristine",
+			"lastname": "Kelly",
+			"phone": "530-913-0799",
+			"email": "ckelly@fixcreative.org",
+			"botsteward": "Greg Cameron",
+			"paymentnum": "",
+			"yeartotal": "$177.16",
+			"lastgift": "$100.00",
+			"lastgiftdate": "09/03/19",
+			"nextlastgift": "$12.86",
+			"nextlastgiftdate": "06/30/19",
+			"comments": "Cancelled recurring.  Donated $100"
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 60,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Bryce & Anne",
+			"lastname": "Kerker",
+			"phone": "253-310-6733",
+			"email": "Bryce.Kerker@dell.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "$500.00",
+			"nextlastgiftdate": "11/15/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 61,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Bryce & Anne",
+			"lastname": "Kerker",
+			"phone": "253-310-6733",
+			"email": "Bryce.Kerker@dell.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "$500.00",
+			"nextlastgiftdate": "11/15/18",
+			"comments": "Dell match"
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 62,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Alan",
+			"lastname": "Kilgore",
+			"phone": "916-320-8930",
+			"email": "arkilgore@yahoo.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 5,
+			"yeartotal": "$65.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/10/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/10/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 63,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Morris",
+			"lastname": "Lebeck",
+			"phone": "530-432-5645",
+			"email": "",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$62.50",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/05/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 64,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "LeSonia",
+			"lastname": "Leimer",
+			"phone": "408-309-8954",
+			"email": "lesonialeimer@sbcglobal.net",
+			"botsteward": "",
+			"paymentnum": 3,
+			"yeartotal": "$12.50",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/21/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/21/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 65,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Paige",
+			"lastname": "Lettington",
+			"phone": "619-826-0027",
+			"email": "paigelyn47@gmail.com",
+			"botsteward": "",
+			"paymentnum": 3,
+			"yeartotal": "$18.75",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/21/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/21/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 66,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Robert",
+			"lastname": "Libutti & Mary Tendall",
+			"phone": "530-265-5737",
+			"email": "libutti@jps.net",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 33,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/02/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 67,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Jesse",
+			"lastname": "Locks",
+			"phone": "530-265-3120",
+			"email": "jesselocks@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 13,
+			"yeartotal": "$300.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "01/23/20",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "12/23/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 68,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Frances",
+			"lastname": "Logue",
+			"phone": "",
+			"email": "franann59@hotmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 16,
+			"yeartotal": "$77.16",
+			"lastgift": "$6.43",
+			"lastgiftdate": "01/31/20",
+			"nextlastgift": "$6.43",
+			"nextlastgiftdate": "12/31/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 69,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Katona",
+			"lastname": "Manissero",
+			"phone": "530-401-6135",
+			"email": "getmetothevi@hotmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 10,
+			"yeartotal": "$56.25",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/09/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/09/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 70,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Charles & Jikke",
+			"lastname": "Maroon",
+			"phone": "530-478-0167",
+			"email": "cousinjack@sbcglobal.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$307.50",
+			"lastgift": "$75.00",
+			"lastgiftdate": "11/14/19",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "08/20/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 71,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Charles & Jikke",
+			"lastname": "Maroon",
+			"phone": "530-478-0167",
+			"email": "cousinjack@sbcglobal.net",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$307.50",
+			"lastgift": "$75.00",
+			"lastgiftdate": "11/14/19",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "08/20/19",
+			"comments": "PG&E match"
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 72,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Nanci",
+			"lastname": "Mason",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 73,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Peter",
+			"lastname": "Mason & Ken Getz",
+			"phone": "530-346-9927",
+			"email": "pmason@sierrastages.org",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$500.00",
+			"lastgift": "$500.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$500.00",
+			"nextlastgiftdate": "12/31/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 74,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Kay",
+			"lastname": "Maston",
+			"phone": "530-370-4316",
+			"email": "kmaston@mac.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 75,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Penny",
+			"lastname": "Matson",
+			"phone": "530-478-1118",
+			"email": "bhackettart@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 69,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/09/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/08/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 76,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Carl",
+			"lastname": "Mautz",
+			"phone": "530-478-1670",
+			"email": "cmautz@nccn.net",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$75.00",
+			"lastgift": "$75.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "06/07/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 77,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "ANNI",
+			"lastname": "MCCANN",
+			"phone": "",
+			"email": "anni440@hotmail.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$50.73",
+			"lastgift": "$25.00",
+			"lastgiftdate": "12/30/19",
+			"nextlastgift": "$25.73",
+			"nextlastgiftdate": "12/30/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 78,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "MaryAnne",
+			"lastname": "McDonnell",
+			"phone": "530-265-6768",
+			"email": "mamcdonnell@sbcglobal.net",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 31,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/17/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 79,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Larry & Pamela",
+			"lastname": "Meek",
+			"phone": "530-265-6523",
+			"email": "pmichelemeek@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 11,
+			"yeartotal": "$285.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "12/06/19",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "11/06/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 80,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Brad & Margie",
+			"lastname": "Miller",
+			"phone": "530-265-0334",
+			"email": "",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$75.00",
+			"lastgift": "$50.00",
+			"lastgiftdate": "01/02/20",
+			"nextlastgift": "$75.00",
+			"nextlastgiftdate": "01/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 81,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Loretta",
+			"lastname": "Miller",
+			"phone": "",
+			"email": "stockmgmt@gmail.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$308.70",
+			"lastgift": "$308.70",
+			"lastgiftdate": "12/12/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 82,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Tom",
+			"lastname": "Monaghan & Kathy Debsh",
+			"phone": "510-220-0876",
+			"email": "tpmonaghan@yahoo.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 22,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/13/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/13/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 83,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Chuck & Pamela",
+			"lastname": "Morey",
+			"phone": "",
+			"email": "ridgelady27@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": "",
+			"yeartotal": "$512.86",
+			"lastgift": "$500.00",
+			"lastgiftdate": "10/31/19",
+			"nextlastgift": "$12.86",
+			"nextlastgiftdate": "01/20/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 84,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Steve",
+			"lastname": "Nicholson & Mimi Vishoot, D.V.M.",
+			"phone": "530-470-9121",
+			"email": "mac@steveandmimi.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": 31,
+			"yeartotal": "$110.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/10/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/10/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 85,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Dave",
+			"lastname": "Olsen",
+			"phone": "530-470-8442",
+			"email": "wrrdsmyth@sbcglobal.net",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": "",
+			"yeartotal": "$150.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "06/19/19",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "05/19/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 86,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Custis",
+			"lastname": "P. Haynes",
+			"phone": "530-205-9271",
+			"email": "cph32@ncws.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$25.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "08/15/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 87,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Keith & Shirley",
+			"lastname": "Porter",
+			"phone": "530-272-7380",
+			"email": "porter@burmaoaks.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": "",
+			"yeartotal": "$100.00",
+			"lastgift": "$100.00",
+			"lastgiftdate": "01/13/20",
+			"nextlastgift": "$100.00",
+			"nextlastgiftdate": "02/01/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 88,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Scott & Cyndie",
+			"lastname": "Purdy",
+			"phone": "530-265-8484",
+			"email": "cyndiepurdy@gmail.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 33,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "02/05/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "01/05/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 89,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Marva",
+			"lastname": "Rae",
+			"phone": "916-608-8754",
+			"email": "marvarae5@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 33,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "12/16/19",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "11/16/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 90,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Marva",
+			"lastname": "Rae",
+			"phone": "916-608-8754",
+			"email": "marvarae5@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 27,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "12/16/19",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "11/16/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 91,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Allison",
+			"lastname": "Rapp",
+			"phone": "530-274-1164",
+			"email": "allisonrapp@gmail.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 13,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/17/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 92,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Cheryl",
+			"lastname": "Rellstab",
+			"phone": "530-205-9549",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$100.00",
+			"lastgift": "$100.00",
+			"lastgiftdate": "12/17/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 93,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Diane",
+			"lastname": "Robertson",
+			"phone": "530-228-8418",
+			"email": "dianerob43@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": "",
+			"yeartotal": "$1,000.00",
+			"lastgift": "$1,000.00",
+			"lastgiftdate": "11/19/19",
+			"nextlastgift": "$1,000.00",
+			"nextlastgiftdate": "08/14/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 94,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Sandra",
+			"lastname": "Rockman",
+			"phone": "",
+			"email": "sandrarockman@outlook.com",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$51.45",
+			"lastgift": "$51.45",
+			"lastgiftdate": "12/03/19",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 95,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Craig",
+			"lastname": "Rohrsen",
+			"phone": "530-272-6324",
+			"email": "crohrsen@att.net",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 31,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/13/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/13/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 96,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Katherine",
+			"lastname": "Scourtes",
+			"phone": "530-913-7826",
+			"email": "kscourtes@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 13,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/17/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/17/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 97,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Judy",
+			"lastname": "Seabridge",
+			"phone": "",
+			"email": "",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$0.00",
+			"lastgift": "--",
+			"lastgiftdate": "--",
+			"nextlastgift": "",
+			"nextlastgiftdate": "--",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 98,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Gerri",
+			"lastname": "Snell",
+			"phone": "530-401-2834",
+			"email": "justhike@hotmail.com",
+			"botsteward": "",
+			"paymentnum": 5,
+			"yeartotal": "$50.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/19/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/19/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 99,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Cai",
+			"lastname": "Sorlien",
+			"phone": "530-288-3603",
+			"email": "",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": "",
+			"yeartotal": "$25.00",
+			"lastgift": "$25.00",
+			"lastgiftdate": "12/05/19",
+			"nextlastgift": "$25.00",
+			"nextlastgiftdate": "12/31/18",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 100,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Janet",
+			"lastname": "Stanger",
+			"phone": "",
+			"email": "janetstanger5@gmail.com",
+			"botsteward": "Mark Warner",
+			"paymentnum": 32,
+			"yeartotal": "$60.00",
+			"lastgift": "$5.00",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$5.00",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 101,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Susan",
+			"lastname": "Steinbarth",
+			"phone": "530-249-4011",
+			"email": "susansteinbarth@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 102,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Cici",
+			"lastname": "Stewart",
+			"phone": "530-277-3831",
+			"email": "cicstewart@gmail.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 32,
+			"yeartotal": "$120.00",
+			"lastgift": "$10.00",
+			"lastgiftdate": "01/16/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "12/16/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 103,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Karen",
+			"lastname": "Stone",
+			"phone": "",
+			"email": "freesparrow@sbcglobal.net",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 12,
+			"yeartotal": "$68.75",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/19/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/19/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 104,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Joel & Susan",
+			"lastname": "Swift",
+			"phone": "530-902-8569",
+			"email": "D7Swift@gmail.com",
+			"botsteward": "Greg Cameron",
+			"paymentnum": "",
+			"yeartotal": "$300.00",
+			"lastgift": "$300.00",
+			"lastgiftdate": "12/20/19",
+			"nextlastgift": "$120.00",
+			"nextlastgiftdate": "11/30/16",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 105,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Reine",
+			"lastname": "Thibeault",
+			"phone": "916-342-7546",
+			"email": "okreine@yahoo.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 15,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/08/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 106,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Gerald",
+			"lastname": "Thomas",
+			"phone": "650-888-8817",
+			"email": "tallpeople4@sbcglobal.net",
+			"botsteward": "",
+			"paymentnum": "",
+			"yeartotal": "$150.00",
+			"lastgift": "$150.00",
+			"lastgiftdate": "11/30/19",
+			"nextlastgift": "$120.00",
+			"nextlastgiftdate": "02/27/17",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 107,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Mollie",
+			"lastname": "Thomas & Meredith Mohr",
+			"phone": "707-712-9681",
+			"email": "molmthom@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 21,
+			"yeartotal": "$584.50",
+			"lastgift": "$10.00",
+			"lastgiftdate": "02/01/20",
+			"nextlastgift": "$10.00",
+			"nextlastgiftdate": "01/01/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 108,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Robert",
+			"lastname": "Trent",
+			"phone": "530-553-5982",
+			"email": "robertxtrent@gmail.com",
+			"botsteward": "Cara Wasilewski",
+			"paymentnum": 16,
+			"yeartotal": "$77.16",
+			"lastgift": "$6.43",
+			"lastgiftdate": "02/01/20",
+			"nextlastgift": "$6.43",
+			"nextlastgiftdate": "01/01/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 109,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Anita",
+			"lastname": "Wald-Tuttle",
+			"phone": "",
+			"email": "anita1+3@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 19,
+			"yeartotal": "$68.75",
+			"lastgift": "$6.25",
+			"lastgiftdate": "02/03/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "01/03/20",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 110,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Robin",
+			"lastname": "Wallace",
+			"phone": "530-265-9397",
+			"email": "robinawallace@sbcglobal.net",
+			"botsteward": "Greg Cameron",
+			"paymentnum": "",
+			"yeartotal": "$350.00",
+			"lastgift": "$200.00",
+			"lastgiftdate": "12/10/19",
+			"nextlastgift": "$150.00",
+			"nextlastgiftdate": "01/08/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 111,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Mark & Elyse",
+			"lastname": "Warner",
+			"phone": "530- 265-6205",
+			"email": "mpwarnercpa@gmail.com",
+			"botsteward": "Gladys Birdsong",
+			"paymentnum": 14,
+			"yeartotal": "$77.16",
+			"lastgift": "$6.43",
+			"lastgiftdate": "01/31/20",
+			"nextlastgift": "$6.43",
+			"nextlastgiftdate": "12/31/19",
+			"comments": ""
+		}
+	},
+	{
+		"model": "donor_app.donor",
+		"pk": 112,
+		"fields": {
+			"steward_id": 1,
+			"orgName": "Pinky",
+			"lastname": "Zalkin",
+			"phone": "530-388-0959",
+			"email": "lapinkster@gmail.com",
+			"botsteward": "Doug Fleming",
+			"paymentnum": 22,
+			"yeartotal": "$75.00",
+			"lastgift": "$6.25",
+			"lastgiftdate": "01/13/20",
+			"nextlastgift": "$6.25",
+			"nextlastgiftdate": "12/13/19",
+			"comments": ""
+		}
+	}
+]
