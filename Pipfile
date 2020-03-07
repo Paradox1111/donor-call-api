@@ -13,6 +13,7 @@ djangorestframework-simplejwt = "*"
 gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
+django-cors-header = "*"
 
 [requires]
 python_version = "3.6"
