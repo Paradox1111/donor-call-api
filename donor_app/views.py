@@ -1,14 +1,15 @@
 from rest_framework import generics
-from .serializers import StewardSerializer, DonorSerializer
-from .models import Steward, Donor
+from .serializers import ProfileSerializer, DonorSerializer, UserSerializer
+from .models import Profile, Donor
+from django.contrib.auth.models import User
 
 class StewardList(generics.ListCreateAPIView):
-    queryset = Steward.objects.all()
-    serializer_class = StewardSerializer
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
 
 class StewardDetail(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Steward.objects.all()
-    serializer_class = StewardSerializer
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
 
 class DonorList(generics.ListCreateAPIView):
     queryset = Donor.objects.all()

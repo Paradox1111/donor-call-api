@@ -3,7 +3,7 @@
 		"model": "donor_app.donor",
 		"pk": 1,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "GBDH Design Group",
 			"lastname": "Roy Hunt",
 			"phone": "916-416-5137",
@@ -22,7 +22,7 @@
 		"model": "donor_app.donor",
 		"pk": 2,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Bistro 221",
 			"lastname": "",
 			"phone": "530-277-0953",
@@ -41,7 +41,7 @@
 		"model": "donor_app.donor",
 		"pk": 3,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Escrip",
 			"lastname": "",
 			"phone": "",
@@ -60,7 +60,7 @@
 		"model": "donor_app.donor",
 		"pk": 4,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "NC Office of Emergency Services",
 			"lastname": "",
 			"phone": "",
@@ -79,7 +79,7 @@
 		"model": "donor_app.donor",
 		"pk": 5,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Waste Management",
 			"lastname": "",
 			"phone": "",
@@ -98,7 +98,7 @@
 		"model": "donor_app.donor",
 		"pk": 6,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "County of Nevada",
 			"lastname": "",
 			"phone": "",
@@ -117,7 +117,7 @@
 		"model": "donor_app.donor",
 		"pk": 7,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Escrip",
 			"lastname": "",
 			"phone": "",
@@ -136,7 +136,7 @@
 		"model": "donor_app.donor",
 		"pk": 8,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Briar Patch Food Co-Op",
 			"lastname": "",
 			"phone": "530-272-5333",
@@ -155,7 +155,7 @@
 		"model": "donor_app.donor",
 		"pk": 9,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Catherine",
 			"lastname": "Arbini",
 			"phone": "530-268-1883",
@@ -174,7 +174,7 @@
 		"model": "donor_app.donor",
 		"pk": 10,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Rod",
 			"lastname": "Baggett",
 			"phone": "530-559-3842",
@@ -193,7 +193,7 @@
 		"model": "donor_app.donor",
 		"pk": 11,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Elizabeth",
 			"lastname": "Bennett Revocable Living Trust",
 			"phone": "",
@@ -212,7 +212,7 @@
 		"model": "donor_app.donor",
 		"pk": 12,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Judith",
 			"lastname": "Berliner",
 			"phone": "530-273-8754",
@@ -231,7 +231,7 @@
 		"model": "donor_app.donor",
 		"pk": 13,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Daniel",
 			"lastname": "Bibelheimer & Ginger Konvalin",
 			"phone": "530-265-3482",
@@ -250,7 +250,7 @@
 		"model": "donor_app.donor",
 		"pk": 14,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Larry & Glady",
 			"lastname": "Birdsong",
 			"phone": "530-470-8778",
@@ -269,7 +269,7 @@
 		"model": "donor_app.donor",
 		"pk": 15,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Larry & Glady",
 			"lastname": "Birdsong",
 			"phone": "530-470-8778",
@@ -288,7 +288,7 @@
 		"model": "donor_app.donor",
 		"pk": 16,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "David",
 			"lastname": "Bowman",
 			"phone": "530-273-7418",
@@ -307,7 +307,7 @@
 		"model": "donor_app.donor",
 		"pk": 17,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Bonita",
 			"lastname": "Brand",
 			"phone": "530-205-7902",
@@ -326,7 +326,7 @@
 		"model": "donor_app.donor",
 		"pk": 18,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Russell & Fiona",
 			"lastname": "Cameron",
 			"phone": "530-274-1028",
@@ -345,7 +345,7 @@
 		"model": "donor_app.donor",
 		"pk": 19,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Greg & Sheila",
 			"lastname": "Cameron",
 			"phone": "530-613-6546",
@@ -364,7 +364,7 @@
 		"model": "donor_app.donor",
 		"pk": 20,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Russell & Fiona",
 			"lastname": "Cameron",
 			"phone": "530-274-1028",
@@ -383,7 +383,7 @@
 		"model": "donor_app.donor",
 		"pk": 21,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Stuart & Paula",
 			"lastname": "Campbell",
 			"phone": "530-265-5705",
@@ -402,7 +402,7 @@
 		"model": "donor_app.donor",
 		"pk": 22,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Marlee",
 			"lastname": "Chamberlin",
 			"phone": "530-272-4804",
@@ -421,7 +421,7 @@
 		"model": "donor_app.donor",
 		"pk": 23,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Vivian",
 			"lastname": "Conly",
 			"phone": "304-646-4107",
@@ -440,7 +440,7 @@
 		"model": "donor_app.donor",
 		"pk": 24,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Caryn",
 			"lastname": "Cook",
 			"phone": "760-864-7201",
@@ -459,7 +459,7 @@
 		"model": "donor_app.donor",
 		"pk": 25,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Wanda",
 			"lastname": "Cristel",
 			"phone": "530-477-3398",
@@ -478,7 +478,7 @@
 		"model": "donor_app.donor",
 		"pk": 26,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Gene & Judy",
 			"lastname": "Crowe",
 			"phone": "530-265-2675",
@@ -497,7 +497,7 @@
 		"model": "donor_app.donor",
 		"pk": 27,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "John",
 			"lastname": "Dang",
 			"phone": "",
@@ -516,7 +516,7 @@
 		"model": "donor_app.donor",
 		"pk": 28,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Don & Kathryn",
 			"lastname": "Deppensmith",
 			"phone": "530-478-9537",
@@ -535,7 +535,7 @@
 		"model": "donor_app.donor",
 		"pk": 29,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Tom & Sandy",
 			"lastname": "Devine",
 			"phone": "530-265-3104",
@@ -554,7 +554,7 @@
 		"model": "donor_app.donor",
 		"pk": 30,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "James",
 			"lastname": "Doolittle",
 			"phone": "916-806-2403",
@@ -573,7 +573,7 @@
 		"model": "donor_app.donor",
 		"pk": 31,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Brett & Kathy",
 			"lastname": "Dotson",
 			"phone": "530-470-8595",
@@ -592,7 +592,7 @@
 		"model": "donor_app.donor",
 		"pk": 32,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Rafael",
 			"lastname": "Escobar & Ann Ashley",
 			"phone": "530-470-6164",
@@ -611,7 +611,7 @@
 		"model": "donor_app.donor",
 		"pk": 33,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "George",
 			"lastname": "Evans",
 			"phone": "530-272-2458",
@@ -630,7 +630,7 @@
 		"model": "donor_app.donor",
 		"pk": 34,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Rob & Suzanne",
 			"lastname": "Ferroggiaro",
 			"phone": "530-477-5344",
@@ -649,7 +649,7 @@
 		"model": "donor_app.donor",
 		"pk": 35,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Brenda",
 			"lastname": "Fields",
 			"phone": "530-320-5334",
@@ -668,7 +668,7 @@
 		"model": "donor_app.donor",
 		"pk": 36,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Jim & Barbara",
 			"lastname": "Fiksdal",
 			"phone": "530-477-9339",
@@ -687,7 +687,7 @@
 		"model": "donor_app.donor",
 		"pk": 37,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Charles",
 			"lastname": "Fischetti & Michael Chalmers",
 			"phone": "",
@@ -706,7 +706,7 @@
 		"model": "donor_app.donor",
 		"pk": 38,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Rick & Eva",
 			"lastname": "Fisher",
 			"phone": "530-277-4336",
@@ -725,7 +725,7 @@
 		"model": "donor_app.donor",
 		"pk": 39,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Doug",
 			"lastname": "Fleming",
 			"phone": "323-309-9728",
@@ -744,7 +744,7 @@
 		"model": "donor_app.donor",
 		"pk": 40,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Gary",
 			"lastname": "Frankel",
 			"phone": "530-477-7456",
@@ -763,7 +763,7 @@
 		"model": "donor_app.donor",
 		"pk": 41,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "William",
 			"lastname": "Gainer",
 			"phone": "530-432-8196",
@@ -782,7 +782,7 @@
 		"model": "donor_app.donor",
 		"pk": 42,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Eve",
 			"lastname": "Ggem",
 			"phone": "530-272-3941",
@@ -801,7 +801,7 @@
 		"model": "donor_app.donor",
 		"pk": 43,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Ron",
 			"lastname": "Graddy",
 			"phone": "",
@@ -820,7 +820,7 @@
 		"model": "donor_app.donor",
 		"pk": 44,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Hindi",
 			"lastname": "Greenberg",
 			"phone": "530-274-7343",
@@ -839,7 +839,7 @@
 		"model": "donor_app.donor",
 		"pk": 45,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Joe & Cynthia",
 			"lastname": "Gruber",
 			"phone": "916-719-0709",
@@ -858,7 +858,7 @@
 		"model": "donor_app.donor",
 		"pk": 46,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Roger & Sandra",
 			"lastname": "Haines",
 			"phone": "(530) 478-0488",
@@ -877,7 +877,7 @@
 		"model": "donor_app.donor",
 		"pk": 47,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Ken & Shannon",
 			"lastname": "Hale",
 			"phone": "530-274-3458",
@@ -896,7 +896,7 @@
 		"model": "donor_app.donor",
 		"pk": 48,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Sands",
 			"lastname": "Hall",
 			"phone": "530-913-1866",
@@ -915,7 +915,7 @@
 		"model": "donor_app.donor",
 		"pk": 49,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Gary & Dee",
 			"lastname": "Hardes",
 			"phone": "253-927-2480",
@@ -934,7 +934,7 @@
 		"model": "donor_app.donor",
 		"pk": 50,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Katherine",
 			"lastname": "Heuer",
 			"phone": "530-432-8072",
@@ -953,7 +953,7 @@
 		"model": "donor_app.donor",
 		"pk": 51,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Michael, Judith & Teddy",
 			"lastname": "Hill-Weld",
 			"phone": "",
@@ -972,7 +972,7 @@
 		"model": "donor_app.donor",
 		"pk": 52,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Linda",
 			"lastname": "Hinz",
 			"phone": "530-477-1459",
@@ -991,7 +991,7 @@
 		"model": "donor_app.donor",
 		"pk": 53,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Lee",
 			"lastname": "Hudson",
 			"phone": "530-265-5001",
@@ -1010,7 +1010,7 @@
 		"model": "donor_app.donor",
 		"pk": 54,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Inah",
 			"lastname": "Inah",
 			"phone": "",
@@ -1029,7 +1029,7 @@
 		"model": "donor_app.donor",
 		"pk": 55,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Andrea",
 			"lastname": "Jensen",
 			"phone": "530-478-0626",
@@ -1048,7 +1048,7 @@
 		"model": "donor_app.donor",
 		"pk": 56,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Anna",
 			"lastname": "Jerome",
 			"phone": "530-470-0399",
@@ -1067,7 +1067,7 @@
 		"model": "donor_app.donor",
 		"pk": 57,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Ken & Barbara",
 			"lastname": "Johnson",
 			"phone": "530-470-6127",
@@ -1086,7 +1086,7 @@
 		"model": "donor_app.donor",
 		"pk": 58,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Chris",
 			"lastname": "Johnson",
 			"phone": "707-321-5985",
@@ -1105,7 +1105,7 @@
 		"model": "donor_app.donor",
 		"pk": 59,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Cristine",
 			"lastname": "Kelly",
 			"phone": "530-913-0799",
@@ -1124,7 +1124,7 @@
 		"model": "donor_app.donor",
 		"pk": 60,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Bryce & Anne",
 			"lastname": "Kerker",
 			"phone": "253-310-6733",
@@ -1143,7 +1143,7 @@
 		"model": "donor_app.donor",
 		"pk": 61,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Bryce & Anne",
 			"lastname": "Kerker",
 			"phone": "253-310-6733",
@@ -1162,7 +1162,7 @@
 		"model": "donor_app.donor",
 		"pk": 62,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Alan",
 			"lastname": "Kilgore",
 			"phone": "916-320-8930",
@@ -1181,7 +1181,7 @@
 		"model": "donor_app.donor",
 		"pk": 63,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Morris",
 			"lastname": "Lebeck",
 			"phone": "530-432-5645",
@@ -1200,7 +1200,7 @@
 		"model": "donor_app.donor",
 		"pk": 64,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "LeSonia",
 			"lastname": "Leimer",
 			"phone": "408-309-8954",
@@ -1219,7 +1219,7 @@
 		"model": "donor_app.donor",
 		"pk": 65,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Paige",
 			"lastname": "Lettington",
 			"phone": "619-826-0027",
@@ -1238,7 +1238,7 @@
 		"model": "donor_app.donor",
 		"pk": 66,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Robert",
 			"lastname": "Libutti & Mary Tendall",
 			"phone": "530-265-5737",
@@ -1257,7 +1257,7 @@
 		"model": "donor_app.donor",
 		"pk": 67,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Jesse",
 			"lastname": "Locks",
 			"phone": "530-265-3120",
@@ -1276,7 +1276,7 @@
 		"model": "donor_app.donor",
 		"pk": 68,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Frances",
 			"lastname": "Logue",
 			"phone": "",
@@ -1295,7 +1295,7 @@
 		"model": "donor_app.donor",
 		"pk": 69,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Katona",
 			"lastname": "Manissero",
 			"phone": "530-401-6135",
@@ -1314,7 +1314,7 @@
 		"model": "donor_app.donor",
 		"pk": 70,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Charles & Jikke",
 			"lastname": "Maroon",
 			"phone": "530-478-0167",
@@ -1333,7 +1333,7 @@
 		"model": "donor_app.donor",
 		"pk": 71,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Charles & Jikke",
 			"lastname": "Maroon",
 			"phone": "530-478-0167",
@@ -1352,7 +1352,7 @@
 		"model": "donor_app.donor",
 		"pk": 72,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Nanci",
 			"lastname": "Mason",
 			"phone": "",
@@ -1371,7 +1371,7 @@
 		"model": "donor_app.donor",
 		"pk": 73,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Peter",
 			"lastname": "Mason & Ken Getz",
 			"phone": "530-346-9927",
@@ -1390,7 +1390,7 @@
 		"model": "donor_app.donor",
 		"pk": 74,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Kay",
 			"lastname": "Maston",
 			"phone": "530-370-4316",
@@ -1409,7 +1409,7 @@
 		"model": "donor_app.donor",
 		"pk": 75,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Penny",
 			"lastname": "Matson",
 			"phone": "530-478-1118",
@@ -1428,7 +1428,7 @@
 		"model": "donor_app.donor",
 		"pk": 76,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Carl",
 			"lastname": "Mautz",
 			"phone": "530-478-1670",
@@ -1447,7 +1447,7 @@
 		"model": "donor_app.donor",
 		"pk": 77,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "ANNI",
 			"lastname": "MCCANN",
 			"phone": "",
@@ -1466,7 +1466,7 @@
 		"model": "donor_app.donor",
 		"pk": 78,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "MaryAnne",
 			"lastname": "McDonnell",
 			"phone": "530-265-6768",
@@ -1485,7 +1485,7 @@
 		"model": "donor_app.donor",
 		"pk": 79,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Larry & Pamela",
 			"lastname": "Meek",
 			"phone": "530-265-6523",
@@ -1504,7 +1504,7 @@
 		"model": "donor_app.donor",
 		"pk": 80,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Brad & Margie",
 			"lastname": "Miller",
 			"phone": "530-265-0334",
@@ -1523,7 +1523,7 @@
 		"model": "donor_app.donor",
 		"pk": 81,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Loretta",
 			"lastname": "Miller",
 			"phone": "",
@@ -1542,7 +1542,7 @@
 		"model": "donor_app.donor",
 		"pk": 82,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Tom",
 			"lastname": "Monaghan & Kathy Debsh",
 			"phone": "510-220-0876",
@@ -1561,7 +1561,7 @@
 		"model": "donor_app.donor",
 		"pk": 83,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Chuck & Pamela",
 			"lastname": "Morey",
 			"phone": "",
@@ -1580,7 +1580,7 @@
 		"model": "donor_app.donor",
 		"pk": 84,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Steve",
 			"lastname": "Nicholson & Mimi Vishoot, D.V.M.",
 			"phone": "530-470-9121",
@@ -1599,7 +1599,7 @@
 		"model": "donor_app.donor",
 		"pk": 85,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Dave",
 			"lastname": "Olsen",
 			"phone": "530-470-8442",
@@ -1618,7 +1618,7 @@
 		"model": "donor_app.donor",
 		"pk": 86,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Custis",
 			"lastname": "P. Haynes",
 			"phone": "530-205-9271",
@@ -1637,7 +1637,7 @@
 		"model": "donor_app.donor",
 		"pk": 87,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Keith & Shirley",
 			"lastname": "Porter",
 			"phone": "530-272-7380",
@@ -1656,7 +1656,7 @@
 		"model": "donor_app.donor",
 		"pk": 88,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Scott & Cyndie",
 			"lastname": "Purdy",
 			"phone": "530-265-8484",
@@ -1675,7 +1675,7 @@
 		"model": "donor_app.donor",
 		"pk": 89,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Marva",
 			"lastname": "Rae",
 			"phone": "916-608-8754",
@@ -1694,7 +1694,7 @@
 		"model": "donor_app.donor",
 		"pk": 90,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Marva",
 			"lastname": "Rae",
 			"phone": "916-608-8754",
@@ -1713,7 +1713,7 @@
 		"model": "donor_app.donor",
 		"pk": 91,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Allison",
 			"lastname": "Rapp",
 			"phone": "530-274-1164",
@@ -1732,7 +1732,7 @@
 		"model": "donor_app.donor",
 		"pk": 92,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Cheryl",
 			"lastname": "Rellstab",
 			"phone": "530-205-9549",
@@ -1751,7 +1751,7 @@
 		"model": "donor_app.donor",
 		"pk": 93,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Diane",
 			"lastname": "Robertson",
 			"phone": "530-228-8418",
@@ -1770,7 +1770,7 @@
 		"model": "donor_app.donor",
 		"pk": 94,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Sandra",
 			"lastname": "Rockman",
 			"phone": "",
@@ -1789,7 +1789,7 @@
 		"model": "donor_app.donor",
 		"pk": 95,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Craig",
 			"lastname": "Rohrsen",
 			"phone": "530-272-6324",
@@ -1808,7 +1808,7 @@
 		"model": "donor_app.donor",
 		"pk": 96,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Katherine",
 			"lastname": "Scourtes",
 			"phone": "530-913-7826",
@@ -1827,7 +1827,7 @@
 		"model": "donor_app.donor",
 		"pk": 97,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Judy",
 			"lastname": "Seabridge",
 			"phone": "",
@@ -1846,7 +1846,7 @@
 		"model": "donor_app.donor",
 		"pk": 98,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Gerri",
 			"lastname": "Snell",
 			"phone": "530-401-2834",
@@ -1865,7 +1865,7 @@
 		"model": "donor_app.donor",
 		"pk": 99,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Cai",
 			"lastname": "Sorlien",
 			"phone": "530-288-3603",
@@ -1884,7 +1884,7 @@
 		"model": "donor_app.donor",
 		"pk": 100,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 8,
 			"orgName": "Janet",
 			"lastname": "Stanger",
 			"phone": "",
@@ -1903,7 +1903,7 @@
 		"model": "donor_app.donor",
 		"pk": 101,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Susan",
 			"lastname": "Steinbarth",
 			"phone": "530-249-4011",
@@ -1922,7 +1922,7 @@
 		"model": "donor_app.donor",
 		"pk": 102,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Cici",
 			"lastname": "Stewart",
 			"phone": "530-277-3831",
@@ -1941,7 +1941,7 @@
 		"model": "donor_app.donor",
 		"pk": 103,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Karen",
 			"lastname": "Stone",
 			"phone": "",
@@ -1960,7 +1960,7 @@
 		"model": "donor_app.donor",
 		"pk": 104,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Joel & Susan",
 			"lastname": "Swift",
 			"phone": "530-902-8569",
@@ -1979,7 +1979,7 @@
 		"model": "donor_app.donor",
 		"pk": 105,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Reine",
 			"lastname": "Thibeault",
 			"phone": "916-342-7546",
@@ -1998,7 +1998,7 @@
 		"model": "donor_app.donor",
 		"pk": 106,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Gerald",
 			"lastname": "Thomas",
 			"phone": "650-888-8817",
@@ -2017,7 +2017,7 @@
 		"model": "donor_app.donor",
 		"pk": 107,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Mollie",
 			"lastname": "Thomas & Meredith Mohr",
 			"phone": "707-712-9681",
@@ -2036,7 +2036,7 @@
 		"model": "donor_app.donor",
 		"pk": 108,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 5,
 			"orgName": "Robert",
 			"lastname": "Trent",
 			"phone": "530-553-5982",
@@ -2055,7 +2055,7 @@
 		"model": "donor_app.donor",
 		"pk": 109,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Anita",
 			"lastname": "Wald-Tuttle",
 			"phone": "",
@@ -2074,7 +2074,7 @@
 		"model": "donor_app.donor",
 		"pk": 110,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 9,
 			"orgName": "Robin",
 			"lastname": "Wallace",
 			"phone": "530-265-9397",
@@ -2093,7 +2093,7 @@
 		"model": "donor_app.donor",
 		"pk": 111,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 11,
 			"orgName": "Mark & Elyse",
 			"lastname": "Warner",
 			"phone": "530- 265-6205",
@@ -2112,7 +2112,7 @@
 		"model": "donor_app.donor",
 		"pk": 112,
 		"fields": {
-			"steward_id": 1,
+			"user_id": 10,
 			"orgName": "Pinky",
 			"lastname": "Zalkin",
 			"phone": "530-388-0959",
