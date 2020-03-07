@@ -1,6 +1,6 @@
 from rest_framework import generics
-from .serializers import ProfileSerializer, DonorSerializer, UserSerializer
-from .models import Profile, Donor
+from .serializers import DonorSerializer, UserSerializer
+from .models import Donor
 from django.contrib.auth.models import User
 
 class StewardList(generics.ListCreateAPIView):
