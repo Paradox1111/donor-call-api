@@ -13,7 +13,9 @@ djangorestframework-simplejwt = "*"
 gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
-django-cors-header = "*"
+django-cors-headers = "*"
+django-heroku = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.6"
