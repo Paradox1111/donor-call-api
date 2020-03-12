@@ -18,5 +18,3 @@ class DonorList(generics.ListCreateAPIView):
 class DonorDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Donor.objects.all()
     serializer_class = DonorSerializer
-    def post(self, request, pk, format=None):
-        return Response("ok")
