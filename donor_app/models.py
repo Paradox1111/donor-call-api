@@ -4,7 +4,7 @@ from django.db.models.signals import post_save
 from django.dispatch import receiver
 
 class Donor(models.Model):
-    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='donors', default=1)
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='donors', default=5)
     botsteward = models.CharField(max_length=100, default="Gretchen Bond")
     orgName = models.CharField(max_length=100, default="")
     lastname = models.CharField(max_length=100, default="")
