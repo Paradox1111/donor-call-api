@@ -18,14 +18,5 @@ class DonorList(generics.ListCreateAPIView):
 class DonorDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Donor.objects.all()
     serializer_class = DonorSerializer
-    def post(self, request, format=None):
+    def post(self, request, pk, format=None):
         return Response("ok")
-    def allowed_methods(self):
-        """
-        Return the list of allowed HTTP methods, uppercased.
-        """
-        self.http_method_names.append("post")
-        self.http_method_names.append("delete")
-        self.http_method_names.append("get")
-        return [method.upper() for method in self.http_method_names
-                if hasattr(self, method)]
