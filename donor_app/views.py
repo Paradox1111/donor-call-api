@@ -15,6 +15,6 @@ class DonorList(generics.ListCreateAPIView):
     queryset = Donor.objects.all()
     serializer_class = DonorSerializer
 
-class DonorDetail(generics.ListCreateAPIView):
+class DonorDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Donor.objects.all()
     serializer_class = DonorSerializer
