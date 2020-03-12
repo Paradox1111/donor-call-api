@@ -16,4 +16,4 @@ class UserSerializer(serializers.HyperlinkedModelSerializer):
 class DonorSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Donor
-        fields = ('id', 'orgName', 'lastname', 'phone', 'email', 'paymentnum', 'yeartotal', 'lastgift', 'lastgiftdate', 'nextlastgift', 'botsteward', 'nextlastgiftdate', 'comments')
+        fields = ('user_id', 'id', 'orgName', 'lastname', 'phone', 'email', 'paymentnum', 'yeartotal', 'lastgift', 'lastgiftdate', 'nextlastgift', 'botsteward', 'nextlastgiftdate', 'comments')
