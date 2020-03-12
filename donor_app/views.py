@@ -21,11 +21,11 @@ class DonorDetail(generics.RetrieveUpdateDestroyAPIView):
     def post(self, request, format=None):
         return Response("ok")
     def allowed_methods(self):
-    """
-    Return the list of allowed HTTP methods, uppercased.
-    """
-    self.http_method_names.append("post")
-    self.http_method_names.append("delete")
-    self.http_method_names.append("get")
-    return [method.upper() for method in self.http_method_names
-            if hasattr(self, method)]
+        """
+        Return the list of allowed HTTP methods, uppercased.
+        """
+        self.http_method_names.append("post")
+        self.http_method_names.append("delete")
+        self.http_method_names.append("get")
+        return [method.upper() for method in self.http_method_names
+                if hasattr(self, method)]
